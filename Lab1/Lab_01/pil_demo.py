@@ -1,6 +1,6 @@
 from PIL import Image, ImageFilter
 #Read image
-im = Image.open( 'messi5.jpg' )
+im = Image.open('messi5.jpg')
 
 print(im.format)
 print(im.mode)

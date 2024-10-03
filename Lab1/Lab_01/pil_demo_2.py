@@ -1,7 +1,7 @@
 from PIL import Image, ImageFilter
 
 #Read image
-im = Image.open( 'messi5.jpg' )
+im = Image.open('messi5.jpg')
 
 #Display image
 im.show()
